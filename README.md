@@ -1,2 +1,3 @@
 # hello-word
-notas julia
+¡Hola mundo!
+Quiero hacer una web con Julia y Genie
